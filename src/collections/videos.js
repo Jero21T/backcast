@@ -6,4 +6,3 @@ var Videos = Backbone.Collection.extend({
 
 });
 
-
